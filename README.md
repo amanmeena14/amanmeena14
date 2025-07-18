@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Meena</h1>
-<h3 align="center">A passionate Developer | AI & Blockchain Enthusiast | Problem Solver</h3>
+<h3 align="center">A passionate Developer | Web Developer & Ai Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Tech+Explorer.;Open+Source+Contributor.;Lifelong+Learner.+" alt="Typing SVG" />
@@ -43,10 +43,9 @@
 
 ### 📌 Featured Projects
 
-- 🔐 **[Secure Image Encryption using AES + Crypto++](https://github.com/your-repo-link)**
-- ⚙️ **[Linux Sandbox using seccomp](https://github.com/your-repo-link)**
-- 🌐 **[Private Ethereum Blockchain with PoA](https://github.com/your-repo-link)**
-- 🧠 **[AI-Based Task Manager App](https://github.com/your-repo-link)**
+- 🔐 **[Code-Sync- Custom contest generater and profile analytical coding platform](https://github.com/amanmeena14/CodeSync)**
+- ⚙️ **[Property-Pulse- Property Rentel website](https://github.com/amanmeena14/Property-pulse)**
+- 🌐 **[Astraa-An Ai Powered security app for womans in critical conditions](https://github.com/amanmeena14/Astraa)**
 
 > *See more pinned projects below!*
 
@@ -55,8 +54,8 @@
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:amanmeena.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aman-meena-3926171a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:amanujs2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
