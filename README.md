@@ -12,8 +12,8 @@
 - 🎓 B.Tech student at **IIIT Allahabad**
 - 💡 Exploring **AI/ML**, **Blockchain**, and **System Security**
 - 💻 Building personal and academic projects, and contributing to **open source**
-- 🌱 Currently learning **Rust**, **Next.js**, and **Smart Contracts**
-- 📫 Reach me at: [amanmeena.dev@gmail.com](mailto:amanmeena.dev@gmail.com)
+- 🌱 Currently learning **React**, **Next.js**, and **Smart Contracts**
+- 📫 Reach me at: [amanujs2003@gmail.com](mailto:amanujs2003@gmail.com)
 - 💬 Ask me about **DSA**, **Linux**, **AI**, **DBMS**, or anything tech!
 
 ---
@@ -35,8 +35,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aman-meena&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-meena&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanmeena14&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmeena14&theme=radical" />
 </p>
 
 ---
@@ -63,9 +63,9 @@
 ---
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=aman-meena&theme=github" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=amanmeena14&theme=github" />
 </p>
 
 ---
 
-⭐️ From [@aman-meena](https://github.com/aman-meena)
+⭐️ From [@aman-meena](https://github.com/amanmeena14)
